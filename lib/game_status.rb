@@ -21,3 +21,4 @@ WIN_COMBINATIONS = [
     board[combo[1]] == board[combo[2]] &&
     position_taken?(board, combo[0])
   end
+end
